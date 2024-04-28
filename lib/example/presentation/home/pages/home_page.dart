@@ -1,4 +1,4 @@
-import 'package:base_app/base/pages/base_scaffold_page.dart';
+import 'package:base_app/architecture/presentation/pages/base_scaffold_page.dart';
 import 'package:base_app/example/presentation/camera/pages/camera_page.dart';
 import 'package:base_app/example/presentation/pokemonlist/bloc/pokemon_list_bloc.dart';
 import 'package:base_app/example/presentation/pokemonlist/pages/pokemon_list_page.dart';

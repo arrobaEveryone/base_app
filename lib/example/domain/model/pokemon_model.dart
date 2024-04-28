@@ -1,4 +1,4 @@
-import 'package:base_app/base/domain/model/base_model.dart';
+import 'package:base_app/architecture/domain/model/base_model.dart';
 import 'package:base_app/example/domain/model/pokemon_type.dart';
 
 class Pokemon extends BaseModel{

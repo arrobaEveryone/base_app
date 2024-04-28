@@ -1,5 +1,5 @@
-import 'package:base_app/base/bloc/base_bloc.dart';
-import 'package:base_app/base/bloc/page_status.dart';
+import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
+import 'package:base_app/architecture/presentation/bloc/page_status.dart';
 import 'package:base_app/example/presentation/translated/bloc/translated_page_event.dart';
 import 'package:base_app/example/presentation/translated/bloc/translated_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

@@ -1,4 +1,4 @@
-import 'package:base_app/architecture/pages/base_page.dart';
+import 'package:base_app/architecture/presentation/pages/base_page.dart';
 import 'package:base_app/components/gap.dart';
 import 'package:base_app/example/presentation/translated/bloc/translated_bloc.dart';
 import 'package:base_app/example/presentation/translated/bloc/translated_page_event.dart';

@@ -1,6 +1,6 @@
 
-import 'package:base_app/base/bloc/base_bloc.dart';
-import 'package:base_app/base/bloc/page_status.dart';
+import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
+import 'package:base_app/architecture/presentation/bloc/page_status.dart';
 import 'package:base_app/example/presentation/login/bloc/login_event.dart';
 import 'package:base_app/example/presentation/login/bloc/login_state.dart';
 import 'package:base_app/example/presentation/login/models/login_ui_model.dart';

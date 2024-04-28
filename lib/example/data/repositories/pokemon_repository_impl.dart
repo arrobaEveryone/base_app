@@ -1,4 +1,4 @@
-import 'package:base_app/base/domain/result.dart';
+import 'package:base_app/architecture/domain/result.dart';
 import 'package:base_app/example/data/datasources/remote/pokemon/pokemon_data_source.dart';
 import 'package:base_app/example/domain/model/pokemon_model.dart';
 import 'package:base_app/example/domain/repositories/pokemon_repository.dart';

@@ -1,4 +1,4 @@
-import 'package:base_app/base/bloc/base_bloc.dart';
+import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
 
 sealed class PokemonListPageEvent extends BaseEvent{
   const PokemonListPageEvent(); 

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:base_app/base/domain/utils/enum_from_string.dart';
+import 'package:base_app/architecture/domain/utils/enum_from_string.dart';
 import 'package:base_app/example/data/datasources/remote/pokemon/mapper/pokemon_mapper.dart';
 import 'package:base_app/example/domain/model/pokemon_model.dart';
 import 'package:base_app/example/domain/model/pokemon_type.dart';
