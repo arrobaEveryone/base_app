@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/domain/utils/colors_extension.dart';
-import 'package:base_app/architecture/domain/utils/string_extension.dart';
+import 'package:base_app/components/utils/colors_extension.dart';
+import 'package:base_app/components/utils/string_extension.dart';
 import 'package:base_app/example/domain/model/pokemon_type.dart';
 import 'package:base_app/example/common/utils/pokemon_type_extension.dart';
 import 'package:flutter/material.dart';
