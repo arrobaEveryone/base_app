@@ -45,6 +45,7 @@ dependencies:
   base_components:
     git:
       url: https://github.com/arrobaEveryone/base_app.git
+      ref: 800c00dd33d590643613e07e24e47478a893a128
       path: packages/base_components
 ```
 
@@ -57,5 +58,6 @@ dependencies:
   base_architecture:
     git:
       url: https://github.com/arrobaEveryone/base_app.git
+      ref: 800c00dd33d590643613e07e24e47478a893a128
       path: packages/base_architecture
 ```
