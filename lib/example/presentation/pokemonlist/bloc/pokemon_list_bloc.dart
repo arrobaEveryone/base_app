@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
-import 'package:base_app/architecture/presentation/bloc/page_status.dart';
+import 'package:base_architecture/presentation/bloc/base_bloc.dart';
+import 'package:base_architecture/presentation/bloc/page_status.dart';
 import 'package:base_app/example/domain/usecases/get_list_pokemon_usecase.dart';
 import 'package:base_app/example/lib/di/domain_service_locator/domain_service_locator.dart';
 import 'package:base_app/example/presentation/pokemonlist/bloc/pokemon_list_event.dart';

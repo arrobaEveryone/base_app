@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:base_app/components/utils/enum_from_string.dart';
 import 'package:base_app/example/data/datasources/remote/pokemon/mapper/pokemon_mapper.dart';
 import 'package:base_app/example/domain/model/pokemon_model.dart';

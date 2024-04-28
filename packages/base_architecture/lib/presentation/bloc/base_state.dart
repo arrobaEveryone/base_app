@@ -1,4 +1,4 @@
-import 'package:base_app/architecture/presentation/bloc/page_status.dart';
+import 'page_status.dart';
 import 'package:equatable/equatable.dart';
 
 abstract class BaseState extends Equatable {

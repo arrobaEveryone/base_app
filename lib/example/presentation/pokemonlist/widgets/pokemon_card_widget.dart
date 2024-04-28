@@ -1,6 +1,6 @@
 
-import 'package:base_app/components/utils/colors_extension.dart';
 import 'package:base_app/components/gap.dart';
+import 'package:base_app/components/utils/colors_extension.dart';
 import 'package:base_app/example/domain/model/pokemon_model.dart';
 import 'package:base_app/example/domain/model/pokemon_type.dart';
 import 'package:base_app/example/presentation/pokemonlist/widgets/pokemon_card_type_widget.dart';

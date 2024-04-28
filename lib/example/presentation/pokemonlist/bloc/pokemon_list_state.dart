@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/presentation/bloc/base_state.dart';
-import 'package:base_app/architecture/presentation/bloc/page_status.dart';
+import 'package:base_architecture/presentation/bloc/base_state.dart';
+import 'package:base_architecture/presentation/bloc/page_status.dart';
 import 'package:base_app/example/presentation/pokemonlist/model/pokemon_list_ui_model.dart';
 
 class PokemonListState extends BaseState{

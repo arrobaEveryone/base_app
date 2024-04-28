@@ -37,6 +37,11 @@ dependencies:
   get_it: ^7.7.0
   dio: ^5.4.3+1
 
+  base_architecture:
+    path: packages/base_architecture
+  base_components:
+    path: packages/base_components
+
   flutter:
     sdk: flutter
 

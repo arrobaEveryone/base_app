@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/data/network_manager.dart';
-import 'package:base_app/architecture/domain/result.dart';
+import 'package:base_architecture/data/network_manager.dart';
+import 'package:base_architecture/domain/result.dart';
 import 'package:base_app/example/data/datasources/remote/pokemon/mapper/pokemon_mapper.dart';
 import 'package:base_app/example/data/datasources/remote/pokemon/pokemon_data_source.dart';
 import 'package:base_app/example/domain/model/pokemon_model.dart';

@@ -1,6 +1,6 @@
 
-import 'package:base_app/architecture/presentation/bloc/page_status.dart';
-import 'package:base_app/architecture/presentation/pages/base_scaffold_page.dart';
+import 'package:base_architecture/presentation/bloc/page_status.dart';
+import 'package:base_architecture/presentation/pages/base_scaffold_page.dart';
 import 'package:base_app/example/presentation/login/bloc/login_bloc.dart';
 import 'package:base_app/example/presentation/login/bloc/login_event.dart';
 import 'package:base_app/example/presentation/login/bloc/login_state.dart';

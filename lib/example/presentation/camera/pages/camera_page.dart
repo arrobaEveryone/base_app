@@ -1,12 +1,11 @@
 
-
 import 'package:base_app/components/fade_transition_widget.dart';
 import 'package:base_app/example/presentation/camera/bloc/camera_bloc.dart';
 import 'package:base_app/example/presentation/camera/bloc/camera_event.dart';
 import 'package:base_app/example/presentation/camera/bloc/camera_state.dart';
+import 'package:base_architecture/presentation/pages/base_page.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
-import '../../../../architecture/presentation/pages/base_page.dart';
 
 
 class CameraPage extends BasePage<CameraPageEvent, CameraState> {

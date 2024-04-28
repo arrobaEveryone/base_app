@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
-import 'package:base_app/architecture/presentation/bloc/base_state.dart';
+import '../bloc/base_bloc.dart';
+import '../bloc/base_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -7,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 // Clase abstracta para la pantalla base
 abstract class BaseScaffoldPage<E extends BaseEvent, S extends BaseState> extends StatefulWidget {
   
-  const BaseScaffoldPage({Key? key}) : super(key: key);
+  const BaseScaffoldPage({super.key});
 
 }
 

@@ -1,4 +1,4 @@
-import 'package:base_app/architecture/presentation/bloc/base_bloc.dart';
+import 'package:base_architecture/presentation/bloc/base_bloc.dart';
 
 abstract class LoginPageEvent extends BaseEvent{}
 

@@ -1,5 +1,5 @@
-import 'package:base_app/architecture/presentation/bloc/base_state.dart';
-import 'package:base_app/architecture/presentation/bloc/page_status.dart';
+import 'package:base_architecture/presentation/bloc/base_state.dart';
+import 'package:base_architecture/presentation/bloc/page_status.dart';
 import 'package:base_app/example/presentation/login/models/login_ui_model.dart';
 
 class LoginState extends BaseState{

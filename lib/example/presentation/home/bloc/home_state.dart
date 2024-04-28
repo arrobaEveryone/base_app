@@ -1,5 +1,5 @@
-import '../../../../architecture/presentation/bloc/base_state.dart';
-import '../../../../architecture/presentation/bloc/page_status.dart';
+import 'package:base_architecture/presentation/bloc/base_state.dart';
+import 'package:base_architecture/presentation/bloc/page_status.dart';
 import '../model/home_ui_model.dart';
 
 class HomeState extends BaseState{
